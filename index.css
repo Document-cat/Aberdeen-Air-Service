@@ -4,9 +4,10 @@ body {
 
 .Header {
     background-color: #036666;
-    
+    width: 100%;
+    position: fixed;
+    font-family:'Segoe UI';
 }
-
-.Home {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.Buttons {
+    font-family: Impact;
 }
