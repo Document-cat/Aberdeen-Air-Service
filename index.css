@@ -1,7 +1,12 @@
 body {
-    background-color: aquamarine;
+    background-color: #00ffff;
 }
 
 .header {
-    background-color: rgb(84, 175, 144);
+    background-color: #036666;
+    
+}
+
+.home {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
