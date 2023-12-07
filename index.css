@@ -7,11 +7,12 @@ body {
 .Header {
     background-color: #036666;
     width: 100%;
+    height: 20%;
     position: fixed;
     font-family:'Segoe UI';
     font-weight: lighter;
+    text-align: center;
 }
 .Buttons {
     font-family: Impact;
-    text-align: center;
 }
