@@ -9,6 +9,12 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#Sidebar {
+#Navbar {
     background-color: cadetblue;
+}
+
+.NBItem {
+    list-style-type: none;
+    text-decoration: none;
+    font: 1.5em sans-serif;
 }
