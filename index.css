@@ -17,4 +17,6 @@ body {
     list-style-type: none;
     text-decoration: none;
     font: 1.5em sans-serif;
+    display: block;
+    
 }
