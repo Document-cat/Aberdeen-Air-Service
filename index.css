@@ -14,9 +14,12 @@ body {
 }
 
 .NBItem {
+    font: 1.5em sans-serif;
+    display: inline-block;
+}
+
+.NBItem a {
     list-style-type: none;
     text-decoration: none;
-    font: 1.5em sans-serif;
-    display: block;
-    
+    color: black;
 }
