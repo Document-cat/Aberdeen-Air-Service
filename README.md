@@ -1,1 +1,2 @@
-# Aberdeen-Air-Service
+# Scedule-Manger
+Fun little project
